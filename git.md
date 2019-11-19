@@ -1,6 +1,6 @@
-##Leassons in Coding
+#Leassons in Coding
 
-#Table of Contents
+Table of Contents
 
 <p>
   <ul>
@@ -12,3 +12,11 @@
     <li><a href="day_five.html">Day five</a></li>
   </ul>
 <p>
+
+<h1 id="top"> Lessons in Coding</h1>
+<a href="#Day_one">Day One</a><br />
+<a href="#Day_two">Day Two</a><br />
+<a href="#Day_three">Day Three</a><br />
+<a href="#Day_four">Day Four</a><br />
+<a href="#Day_five">Day Five</a><br />
+<a href="#overview">Overview</a><br />
