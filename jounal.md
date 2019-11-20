@@ -1,6 +1,6 @@
-Leassons in Coding
+Learning journal
 
-<h1 id="top"> Lessons in Coding</h1>
+<h1 id="top"> Learning Journal</h1>
 <a href="#Day_one">Day One</a><br />
 <a href="#Day_two">Day Two</a><br />
 <a href="#Day_three">Day Three</a><br />
