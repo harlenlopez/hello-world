@@ -21,9 +21,12 @@ Learning journal
 <h2 id="Day_three"> Day Three</h2>
 <p> Day three of class, i am learning about CSS. more specificially, how to make changes to HTML as far as the color of text and the backgrounds. I am also learning how to make changes to adjacent sibling selectors as well. this process helps to clean your code up as not to have to write the same thing for each instance throughout the page. the book outlines how to either write CSS on the same page or link it from a seperate page to the HTML document., the latter is prefered so you can view them seperatly and help jkeep things orginized. 
 We also learned how to impliment Java to build a a webpage with images, and active "welcome" message dependent on the time of day. we created a .css folder, .html folder and a .js folder to handle each aspect of the page Independently.
+<h2> id="Day_four"> Day Four</h2>
 <p> Day four of class, making webpages with Javascript in essentially just like a recipe. you have a set number of ingridients to add in a specific order to achive the desired outcome. we as humans can come to learn a task with practive, as we grow more conffident we can go out side the lines and experiment, computer howerever will need the same input, the same way everytime to achieve the same goal. to help this process its important to remeber these three things; define the goal, design the script, and code each step. this will ensure that you are feeding the corect input to the computer to avoid any errors. Errors will occure when you do not understand the vocabulary the computer understands and the syntax in which those words are contained.</p>
 <p>expressions: there are two types of expressions, expressions that assign a value to avariable and expressions that use two or more values to return a signle value. They rely on O[erators, these create a single value from one or more values. There are five Operators; assignment, arithmetic, string, comparison and logical.Functions; store the code required to for a specific task, this allows the script to call on it wheever it is needed throughtout the code.
 </p>
+<p> We cover while loops and for loops. I learned that while loops, will run keep cycling the same thing such as a prompt it it return a false answer. this is usful for getting the desired answer from the user. the for loop is used to loop through items in an array, you are telling in that in need to return a number to progress, this is used in a shopping cart situation.
+
  
 <p>
     <ul>
